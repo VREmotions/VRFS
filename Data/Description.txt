@@ -2,9 +2,9 @@ VRFS - Virtual Reality and Flat Screen Database
 
 Game (Condition) 		| Participants
 
-Dirt Rally 2 	(HVHA) 	| VR - 9 | FS - 9
-Phasmophobia 	(LVHA) 	| VR - 8 | FS - 8
-Minecraft 	(LVLA)		| VR - 7 | FS - 7
+Dirt Rally 2 	(HVHA) 	  | VR - 9 | FS - 9
+Phasmophobia 	(LVHA) 	  | VR - 8 | FS - 8
+Minecraft 	(LVLA)		 | VR - 7 | FS - 7
 War Thunder 	(HVLA)  	| VR - 9 | FS - 9
 
 TOTAL - 33 Participants
