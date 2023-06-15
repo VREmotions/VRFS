@@ -1,6 +1,6 @@
 VRFS - Virtual Reality and Flat Screen Database
 
-Game (Condition) 		| Participants
+Game (Condition) 	| Participants
 
 Dirt Rally 2 	(HVHA)  | VR - 9 | FS - 9
 Phasmophobia 	(LVHA)  | VR - 8 | FS - 8
